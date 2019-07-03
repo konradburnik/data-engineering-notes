@@ -95,5 +95,4 @@ The list below is by no means a complete one.
     a and b are parameters, finding a value of period x for a given y)
     
 * Nearest Neighbour
- - finding a closest match of a record based on a given metric,
-   e.g. Euclidean distance
+  - finding a closest match of a record based on a given metric, e.g. Euclidean distance
